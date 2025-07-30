@@ -1,0 +1,115 @@
+IDE-Integrated Development Environment
+Need:
+streamlines dev,increases productivity,simplifies complex task,offers a unified workspace,code autocomplete,syntax highlightning,version control,error checking.git
+
+
+CLIENT SIDE:Execute on user's device, js,html,css ui makes clicks and sctolls work can't access server directly ,,quicker for ui change
+
+SERVER SIDE:execute on remote machine,php python java node.js manages saved info
+can read write files interact with databases slower due to network latency
+
+
+role of browser:
+loads from server
+displays web pages
+users inetraction with web pagesupdates content
+loads files
+
+
+HTML:define structure,hierarchy,content,tags
+
+CSS:Style,colors and fonts,layout,selectors
+
+
+JS: actions,updates,events,data-fetch and send
+
+_________________________________________
+HTML:
+
+extension used- .html, .html
+index.html- in root folder and default for home page increase SEO serves as fallback when no file is specified in URL provides uniform starting point
+
+TAGS: <p>opening tag         </p> closing tag
+element: tag with content
+tag contain content or html tags
+define content
+
+
+emmet abbreviation: help to write code
+
+MDN Documentation
+
+COMMENTS: add notes,not displayed on web page, syntax <!--comment--> single tag
+
+CASE INSENSITIVE for tag and attributes
+
+
+ATTRIBUTE: provides additional infohref,src,alt 
+use name=value format
+can single or multiple
+<tag attribute="value'>content</tag>
+
+ID:
+unique identifier
+anchoring-allow for direct links to sections using the #id syntax in URL
+used by css and js for styling and scripting
+
+
+
+HTML TAGS:
+
+
+
+CHARACTER ENTITY REFERENCE: used for special or reserved character like <> or for space (&nbsp)
+
+
+
+BROWSER TOOLS:
+
+view page source
+
+responsive design:look good for all screen size
+
+
+validator.w3.org 
+ensures html adheres to standard
+minimize cross-platform issue 
+
+
+
+SEMANTIC TAGS:
+describe content is meaningful good for SEO useful for screen readers
+header footer rticle section nav
+NON SEMANTIC TAGS:
+generic used for layout not SEO frinedly div span i b
+
+body
+   header
+       nav
+   main 
+     section
+       article
+     aside
+       section
+   footer
+
+
+nav : for navigating page via #
+
+   FOLDER structure:
+
+   html(other than index) css js images assets folder 
+
+BLOCK ELEMENT:
+start on new line take horizontal space can have margins and paddings width and height can be set 
+div p h1 ul li
+INLINE ELEMENT:
+stay in line just as wide as content no new line limited styling 
+span img em img a 
+
+
+div tag:container 
+
+span tag:non semantic used 
+
+    
