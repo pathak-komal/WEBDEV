@@ -1,0 +1,15 @@
+VERSION CONTROL:
+
+track changes
+centralized like svn and distributed like gitteamwork and mistake fix
+saves code combine changes 
+easy to revert to older file versions
+
+
+GIT:
+software tool which commit branch merge
+GITHUB:
+web service for hosting and collaborate
+fork where copy of other repo made
+pull request propose changes to existing code
+issues used for track bugs and feature idea
