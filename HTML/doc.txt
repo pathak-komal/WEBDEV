@@ -113,3 +113,22 @@ div tag:container
 span tag:non semantic used 
 
     
+
+
+
+FORM:
+
+action attribute:
+specifies url to which form data is submitted if not then sent to current page url
+points to server side scripting
+
+name property: identifies form elements when submitting should be unique
+value: default data sets initial value for input elements sent to server
+label tag: adds a text description to form elements
+for attribute:connects the label to a specific form elements to elements id
+
+
+
+
+IFRAME TAG:
+EMBEDDED content in your webpage use src attribute and height and width
