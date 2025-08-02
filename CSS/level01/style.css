@@ -1,0 +1,20 @@
+/* comment */
+*{background-color: antiquewhite;
+    color: rgb(176, 153, 198);
+}
+h2{
+    color: rgb(16, 16, 145);
+}
+#div{
+    color: rgba(11, 133, 92, 0.767);
+    
+}
+.p{
+    background-color: brown;
+}
+p , div{
+    background-color: brown;
+}
+div p{
+    background-color: blue;
+}

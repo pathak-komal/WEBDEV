@@ -1,0 +1,59 @@
+CASCADING STYLE SHEETS:
+style, color,layout,selectors
+
+selector{ //declaration
+    property:value;
+}
+
+
+COLOR PROPERTY:
+foreground and background color
+
+STYLING:
+
+
+external(link)<internal(style)<inline(style)
+
+
+
+DOM: document of object model
+structure of the page 
+   HTML
+    *head
+      title
+      meta data
+    *body
+      paragraph,heading,anchor,etc.. 
+
+
+COMMENT:   /*  */
+
+
+SELECTORS:
+
+elements selectors:
+universal selector:wild card(default) has least priority
+
+
+ID property:unique identifier for single html element uniqueness #
+#id=unique  shortcut
+class selectors:allow grouping of elements
+group selectors: multiple elements  e,t,u
+
+descendants selector:
+
+
+rgba: transparency control rgba(255,0,0,0)
+
+
+ABSOLUTE UNIT:
+
+PIXELS- precision
+height & width: have min max padding margin
+
+background image shorthand: background: color url position attachment
+
+
+
+weight of text 100 to 900
+
